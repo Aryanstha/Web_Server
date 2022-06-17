@@ -1,2 +1,2 @@
-# Port-scanner
-Simple port scanner with Go Lang.
+# Web_Server
+Simple Web scanner with Go Lang.
